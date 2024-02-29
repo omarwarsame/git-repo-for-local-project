@@ -4,4 +4,5 @@ ignore these files
 *.tfstate
 *.tfvars
 terraform.tfstate
+terraform.tfstate.backup
 
